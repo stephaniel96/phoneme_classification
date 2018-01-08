@@ -53,7 +53,7 @@ def replaceZeroes(data):
 def split_data():
     """ Split data so that training and testing do not overlap """
     # path = "../../clean_data/mat_normalized/*.mat"
-    path = "/mat_normalized/*.mat"
+    path = "mat_normalized/*.mat"
     list_files = glob.glob(path)
     length = len(list_files)
     train_files = list_files[:length-100]
