@@ -2904,3 +2904,96 @@ MaxAllocSize:             25607936
 [I 22:21:35.234 NotebookApp] Kernel interrupted: b057b027-3b7f-43e6-a748-fd0b64fc7900
 2018-01-08 22:21:36.274827: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0, compute capability: 3.7)
 [I 22:23:27.760 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[W 22:28:25.670 NotebookApp] 404 GET /nbextensions/nbpresent/css/nbpresent.min.css (140.180.253.255) 1.36ms referer=https://ec2-13-58-46-33.us-east-2.compute.amazonaws.com:8888/notebooks/cnn_classifier.ipynb
+[W 22:28:26.277 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180108195412 (140.180.253.255) 1.45ms referer=https://ec2-13-58-46-33.us-east-2.compute.amazonaws.com:8888/notebooks/cnn_classifier.ipynb
+[I 22:28:26.307 NotebookApp] Adapting to protocol v5.1 for kernel 2e001cb6-117f-44a1-a47d-fbf40faa6b15
+[I 22:28:35.615 NotebookApp] Starting buffering for 2e001cb6-117f-44a1-a47d-fbf40faa6b15:55D64142B4D64AD883E52A7A6DC29014
+[I 22:43:41.380 NotebookApp] Starting buffering for b057b027-3b7f-43e6-a748-fd0b64fc7900:85A0EADAD6DC489BBBCF5105ECA8CE70
+[W 22:43:42.884 NotebookApp] 404 GET /nbextensions/nbpresent/css/nbpresent.min.css (140.180.253.255) 1.47ms referer=https://ec2-13-58-46-33.us-east-2.compute.amazonaws.com:8888/notebooks/fully_connected_classifier.ipynb
+[W 22:43:43.020 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180108195412 (140.180.253.255) 1.35ms referer=https://ec2-13-58-46-33.us-east-2.compute.amazonaws.com:8888/notebooks/fully_connected_classifier.ipynb
+[I 22:43:43.075 NotebookApp] Adapting to protocol v5.1 for kernel b057b027-3b7f-43e6-a748-fd0b64fc7900
+[I 22:47:11.705 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 22:47:43.661 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+2018-01-08 22:48:56.635419: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0, compute capability: 3.7)
+[I 22:49:43.662 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 22:51:42.869 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 22:53:43.665 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 22:55:42.872 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 22:57:42.868 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 22:59:43.669 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:01:42.882 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:03:42.877 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:05:42.878 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:07:42.881 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:09:42.879 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:11:42.877 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:13:42.877 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:15:42.875 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:17:42.879 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:19:42.897 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:21:42.949 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 23:21:50.547 NotebookApp] Kernel interrupted: b057b027-3b7f-43e6-a748-fd0b64fc7900
+[I 23:23:43.691 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[W 00:38:43.075 NotebookApp] WebSocket ping timeout after 119917 ms.
+[I 00:38:48.079 NotebookApp] Starting buffering for b057b027-3b7f-43e6-a748-fd0b64fc7900:0D4719D1854046BA9EDB422B72FCB233
+[I 00:47:24.969 NotebookApp] Adapting to protocol v5.1 for kernel b057b027-3b7f-43e6-a748-fd0b64fc7900
+[I 00:47:24.970 NotebookApp] Restoring connection for b057b027-3b7f-43e6-a748-fd0b64fc7900:0D4719D1854046BA9EDB422B72FCB233
+[W 00:48:54.970 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 00:48:59.971 NotebookApp] Starting buffering for b057b027-3b7f-43e6-a748-fd0b64fc7900:0D4719D1854046BA9EDB422B72FCB233
+[I 01:18:57.506 NotebookApp] Adapting to protocol v5.1 for kernel b057b027-3b7f-43e6-a748-fd0b64fc7900
+[I 01:18:57.507 NotebookApp] Restoring connection for b057b027-3b7f-43e6-a748-fd0b64fc7900:0D4719D1854046BA9EDB422B72FCB233
+[W 01:20:27.507 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 01:20:32.508 NotebookApp] Starting buffering for b057b027-3b7f-43e6-a748-fd0b64fc7900:0D4719D1854046BA9EDB422B72FCB233
+[I 01:22:36.288 NotebookApp] Adapting to protocol v5.1 for kernel b057b027-3b7f-43e6-a748-fd0b64fc7900
+[I 01:22:36.289 NotebookApp] Restoring connection for b057b027-3b7f-43e6-a748-fd0b64fc7900:0D4719D1854046BA9EDB422B72FCB233
+[W 01:24:06.289 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 01:24:11.291 NotebookApp] Starting buffering for b057b027-3b7f-43e6-a748-fd0b64fc7900:0D4719D1854046BA9EDB422B72FCB233
+[I 02:53:50.678 NotebookApp] Adapting to protocol v5.1 for kernel b057b027-3b7f-43e6-a748-fd0b64fc7900
+[I 02:53:50.678 NotebookApp] Restoring connection for b057b027-3b7f-43e6-a748-fd0b64fc7900:0D4719D1854046BA9EDB422B72FCB233
+[I 03:55:54.299 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 03:57:30.916 NotebookApp] Starting buffering for b057b027-3b7f-43e6-a748-fd0b64fc7900:0D4719D1854046BA9EDB422B72FCB233
+[W 03:57:44.848 NotebookApp] 404 GET /nbextensions/nbpresent/css/nbpresent.min.css (140.180.253.255) 1.25ms referer=https://ec2-13-58-46-33.us-east-2.compute.amazonaws.com:8888/notebooks/fully_connected_classifier.ipynb
+[W 03:57:44.948 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180108195412 (140.180.253.255) 1.47ms referer=https://ec2-13-58-46-33.us-east-2.compute.amazonaws.com:8888/notebooks/fully_connected_classifier.ipynb
+[I 03:57:44.972 NotebookApp] Adapting to protocol v5.1 for kernel b057b027-3b7f-43e6-a748-fd0b64fc7900
+[I 03:57:51.035 NotebookApp] Starting buffering for b057b027-3b7f-43e6-a748-fd0b64fc7900:F70C9A27179846A995521B317E41DD20
+[I 03:57:54.301 NotebookApp] Kernel shutdown: b057b027-3b7f-43e6-a748-fd0b64fc7900
+[W 03:58:45.842 NotebookApp] 404 GET /nbextensions/nbpresent/css/nbpresent.min.css (140.180.253.255) 1.43ms referer=https://ec2-13-58-46-33.us-east-2.compute.amazonaws.com:8888/notebooks/fully_connected_classifier.ipynb
+[I 03:58:46.154 NotebookApp] Kernel started: 14fe5d64-2e22-429d-845d-aa404c10a864
+[W 03:58:46.412 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180108195412 (140.180.253.255) 1.55ms referer=https://ec2-13-58-46-33.us-east-2.compute.amazonaws.com:8888/notebooks/fully_connected_classifier.ipynb
+[I 03:58:46.793 NotebookApp] Adapting to protocol v5.1 for kernel 14fe5d64-2e22-429d-845d-aa404c10a864
+2018-01-09 03:59:32.710396: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-01-09 03:59:32.780116: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:892] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2018-01-09 03:59:32.780442: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1030] Found device 0 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:00:1e.0
+totalMemory: 11.17GiB freeMemory: 10.72GiB
+2018-01-09 03:59:32.780464: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0, compute capability: 3.7)
+[I 04:00:46.189 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:02:46.187 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:04:46.191 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:06:46.191 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[W 04:09:46.795 NotebookApp] WebSocket ping timeout after 119878 ms.
+[I 04:09:51.796 NotebookApp] Starting buffering for 14fe5d64-2e22-429d-845d-aa404c10a864:A87F68A2EF6B400B96B9BE826DD79CA5
+[I 04:28:43.019 NotebookApp] Adapting to protocol v5.1 for kernel 14fe5d64-2e22-429d-845d-aa404c10a864
+[I 04:28:43.020 NotebookApp] Restoring connection for 14fe5d64-2e22-429d-845d-aa404c10a864:A87F68A2EF6B400B96B9BE826DD79CA5
+[I 04:28:43.020 NotebookApp] Replaying 8 buffered messages
+[I 04:28:55.863 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:37:07.035 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:39:07.033 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:41:07.032 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:43:07.033 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:45:07.033 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:47:07.034 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:49:07.033 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:51:07.034 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:53:07.033 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:55:07.038 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:57:07.057 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 04:59:07.033 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 05:01:07.058 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 05:03:07.041 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 05:05:07.036 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 05:12:59.475 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 05:13:07.035 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 05:13:17.145 NotebookApp] Saving file at /fully_connected_classifier.ipynb
+[I 05:13:20.288 NotebookApp] Saving file at /fully_connected_classifier.ipynb
